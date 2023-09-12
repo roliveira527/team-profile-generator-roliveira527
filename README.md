@@ -1,6 +1,6 @@
 # Module 12 Object-Oriented Programming: Team Profile Generator
 
-![Team Profile html](./output/team.html)
+![Team Profile html](./assets/demo_screenshot.png)
 
 ## Your Task
 
